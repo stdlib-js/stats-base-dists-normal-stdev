@@ -44,6 +44,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-normal-stdev/tags). For example,
+
+```javascript
 import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@v0.1.1-deno/mod.js';
 ```
 
@@ -101,7 +106,7 @@ y = stdev( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@v0.1.1-deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@deno/mod.js';
 
 var sigma;
 var mu;
