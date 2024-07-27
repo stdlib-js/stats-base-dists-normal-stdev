@@ -44,6 +44,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-normal-stdev/tags). For example,
+
+```javascript
 import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@v0.2.2-esm/index.mjs';
 ```
 
@@ -106,7 +111,7 @@ y = stdev( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@v0.2.2-esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-stdev@esm/index.mjs';
 
 var sigma;
 var mu;
