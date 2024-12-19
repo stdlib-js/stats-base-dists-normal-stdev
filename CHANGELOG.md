@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-19)
+
+<section class="features">
+
+### Features
+
+-   [`7550aab`](https://github.com/stdlib-js/stdlib/commit/7550aabe1fa42666821032ad60b42437ee7e304e) - add C implementation for `stats/base/dists/normal/stdev` [(#4003)](https://github.com/stdlib-js/stdlib/pull/4003)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3783](https://github.com/stdlib-js/stdlib/issues/3783)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7550aab`](https://github.com/stdlib-js/stdlib/commit/7550aabe1fa42666821032ad60b42437ee7e304e) - **feat:** add C implementation for `stats/base/dists/normal/stdev` [(#4003)](https://github.com/stdlib-js/stdlib/pull/4003) _(by Manvith M, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Manvith M
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
