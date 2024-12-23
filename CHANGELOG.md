@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-19)
+## Unreleased (2024-12-23)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`603c766`](https://github.com/stdlib-js/stdlib/commit/603c76686fc8de480628e5b96efd9733b1f059b5) - **test:** only conditionally run tests _(by Philipp Burckhardt)_
+-   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`7550aab`](https://github.com/stdlib-js/stdlib/commit/7550aabe1fa42666821032ad60b42437ee7e304e) - **feat:** add C implementation for `stats/base/dists/normal/stdev` [(#4003)](https://github.com/stdlib-js/stdlib/pull/4003) _(by Manvith M, Philipp Burckhardt)_
 
 </details>
